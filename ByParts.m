@@ -20,17 +20,9 @@
 
 
 (* ::Text:: *)
-(*:Copyright:*)
-(*Copyright (C) University of Sussex 2013-2014*)
-
-
-(* ::Text:: *)
 (*:History:*)
-(*Current version: v1.0.1 (2014.08.28)*)
-(*v1.0 - 14.08.21: First release*)
+(*Current version: v1.0.0 (2015.02.05)*)
 (*See ByParts.history for incremental updates*)
-(**)
-(**)
 
 
 (* ::Section::Closed:: *)
@@ -59,7 +51,7 @@
 (*Package version number:*)
 
 
-xAct`ByParts`$Version={"1.0.1",Date[][[{1,2,3}]]};
+xAct`ByParts`$Version={"1.0.0",Date[][[{1,2,3}]]};
 
 
 (* ::Text:: *)
